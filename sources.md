@@ -19,6 +19,6 @@ The source code of the projects made by thekoneko.
 >
 > [oldSite](https://github.com/thekoneko/oldSite)
 
-* means that the project is private.
+` * means that the project is private.`
 
 [Back](https://thekoneko.github.io)
