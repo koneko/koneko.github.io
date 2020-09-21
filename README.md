@@ -5,19 +5,26 @@ Bellow you will have **2** sections, one is for the sites to play/use the apps a
 # Projects
 
 > rps
+>
 > tictactoe
+>
 > random-color.js
 > rps-js
+>
 > hangman-electron
 > noteTaker
+>
 > oldSite (deprecated)
+> 
 > nodeAttack (deprecated)
 
+---
 
 - [Project Websites](sites)
 
 - [Project Source code](sources)
 
-```
-Note: Not all projects have a github site and only have source code, and some projects may be privated due to some reasons.
-```
+
+
+
+##### Note: Not all projects have a github site and only have source code, and some projects may be privated due to some reasons.
