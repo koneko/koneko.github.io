@@ -9,9 +9,11 @@ Bellow you will have **2** sections, one is for the sites to play/use the apps a
 > tictactoe
 >
 > random-color.js
+>
 > rps-js
 >
 > hangman-electron
+>
 > noteTaker
 >
 > oldSite (deprecated)
