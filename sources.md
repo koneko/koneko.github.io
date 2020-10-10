@@ -18,6 +18,8 @@ The source code of the projects made by thekoneko.
 > [noteTaker](https://github.com/thekoneko/noteTaker)
 >
 > [oldSite](https://github.com/thekoneko/oldSite)
+>
+> [gamblerWeb](https://github.com/thekoneko/gamblerWeb) *
 
 ` * means that the project is private.`
 
