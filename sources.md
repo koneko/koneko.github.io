@@ -20,6 +20,8 @@ The source code of the projects made by thekoneko.
 > [oldSite](https://github.com/thekoneko/oldSite)
 >
 > [gamblerWeb](https://github.com/thekoneko/gamblerWeb) *
+>
+> [music](https://github.com/thekoneko/music)
 
 ` * means that the project is private.`
 
