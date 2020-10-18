@@ -30,7 +30,7 @@ Bellow you will have **2** sections, one is for the sites to play/use the apps a
 
 - **[Project Source code](https://thekoneko.github.io/sources)**
 
-- **[Documentation](http://docs.koneko.cf)**
+- **[Project documentation](http://docs.koneko.cf)**
 
 
 
