@@ -1,37 +1,27 @@
-# Information
-**Koneko(thekoneko)** is a beginner javascript programmer. He loves making and developing apps to grow his experience, and this site is a catalog of all his "apps".
-Bellow you will have **2** sections, one is for the sites to play/use the apps and the other is for the source code.
-
 # Projects
-
-> music
 >
-> gamblerWeb
+> [Noteblock](http://hub.koneko.link/Noteblock) 
 >
-> rps
+> [hangman-electron](https://github.com/koneko/hangman-electron) 
 >
-> tictactoe
+> [catify](https://github.com/koneko/catify) * 
 >
-> random-color.js
+> [nodeAttack](https://github.com/koneko/nodeAttack) 
 >
-> rps-js
+> [tictactoe](http://hub.koneko.link/tictactoe) 
 >
-> hangman-electron
+> [music](http://hub.koneko.link/music) 
 >
-> noteTaker
+> [rps](http://hub.koneko.link/rps) 
 >
-> oldSite (deprecated)
-> 
-> nodeAttack (deprecated)
+> [random-color.js](https://github.com/koneko/random-color.js) 
+>
+> [rps-js](https://github.com/koneko/rps-js) 
+>
+> [noteTaker](https://github.com/koneko/noteTaker) 
+>
+> [oldSite](http://hub.koneko.link/oldSite) 
+>
+`Projects with a * next to them means they are private but planning to come out publicaly`
 
-# Links
-
-- **[Project Websites](https://thekoneko.github.io/sites)**
-
-- **[Project Source code](https://thekoneko.github.io/sources)**
-
-- **[Project documentation](http://docs.koneko.cf)**
-
-
-
-##### Note: Not all projects have a github site and only have source code, and some projects may be privated due to some reasons.
+> [http://koneko.link](http://koneko.link)
