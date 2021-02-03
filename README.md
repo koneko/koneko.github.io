@@ -23,5 +23,5 @@
 > [oldSite](http://hub.koneko.link/oldSite) 
 >
 `Projects with a * next to them means they are private but planning to come out publicaly`
-
-> [http://koneko.link](http://koneko.link)
+---
+[http://koneko.link](http://koneko.link)
