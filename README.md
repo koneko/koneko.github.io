@@ -1,5 +1,7 @@
 # Projects
 >
+> [anifetch](https://hub.koneko.link/anifetch)
+> 
 > [Noteblock](http://hub.koneko.link/Noteblock) 
 >
 > [hangman-electron](https://github.com/koneko/hangman-electron) 
