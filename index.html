@@ -34,11 +34,11 @@
     <div class="container">
       <section id="main_content">
         <h1 id="projects">stuff</h1>
-<blockquote>
+<blockquote id="mainquote">
 
   uhh icons are herer [just you gotta know them](https://hub.koneko.link/cdn/icons/)
   
-  <p><a href="https://github.com/koneko/cerus">cerus</a></p>
+  <!-- <p><a href="https://github.com/koneko/cerus">cerus</a></p>
   
   <p><a href="https://github.com/koneko/embeder">embeder</a></p>
   
@@ -68,12 +68,25 @@
 
   <p><a href="https://github.com/koneko/noteTaker">noteTaker</a></p>
 
-  <p><a href="http://hub.koneko.link/oldSite">oldSite</a></p>
+  <p><a href="http://hub.koneko.link/oldSite">oldSite</a></p> -->
 </blockquote>
 
       </section>
     </div>
 
-    
+    <script>
+      fetch("https://api.github.com/users/koneko/repos").then(res => res.json()).then(data => {
+        let container = document.getElementById("mainquote")
+        data.forEach(item => {
+          if(item.archived == true) return;
+          let p = document.createElement("p")
+          let name = item.name
+          let url = item.html_url
+          p.innerHTML = `<a href="${url}">${name}</a>`
+          container.appendChild(p)
+        });
+
+      })
+    </script>
   </body>
 </html>
